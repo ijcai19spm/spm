@@ -1,3 +1,3 @@
-# spm
 # SPM: Stationary Point Method for Nonnegative Matrix Factorization
-This project is to prove the appendix of the paper 
+
+This project is to provide the appendex of the paper on the titile. It contains the full proof and datasets experiments.
